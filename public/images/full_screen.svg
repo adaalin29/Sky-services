@@ -1,0 +1,27 @@
+<svg id="expand_1_" data-name="expand (1)" xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75">
+  <g id="Group_2532" data-name="Group 2532" transform="translate(0 47.5)">
+    <g id="Group_2531" data-name="Group 2531">
+      <path id="Path_16549" data-name="Path 16549" d="M27.134,324.631a1.248,1.248,0,0,0-1.767,0L2.5,347.5V334.265a1.25,1.25,0,0,0-2.5,0v16.25a1.254,1.254,0,0,0,.773,1.154,1.244,1.244,0,0,0,.478.1h15a1.25,1.25,0,1,0,0-2.5H4.268L27.134,326.4A1.249,1.249,0,0,0,27.134,324.631Z" transform="translate(0 -324.264)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_2534" data-name="Group 2534" transform="translate(47.5)">
+    <g id="Group_2533" data-name="Group 2533">
+      <path id="Path_16550" data-name="Path 16550" d="M351.67.773A1.258,1.258,0,0,0,350.993.1a1.239,1.239,0,0,0-.477-.1h-15a1.25,1.25,0,0,0,0,2.5H347.5L324.632,25.366a1.25,1.25,0,1,0,1.767,1.767L349.266,4.267V17.5a1.25,1.25,0,0,0,2.5,0V1.25A1.261,1.261,0,0,0,351.67.773Z" transform="translate(-324.266)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_2536" data-name="Group 2536" transform="translate(27.5 27.5)">
+    <g id="Group_2535" data-name="Group 2535">
+      <path id="Path_16551" data-name="Path 16551" d="M197.733,187.733a10,10,0,1,0,10,10A10.012,10.012,0,0,0,197.733,187.733Z" transform="translate(-187.733 -187.733)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_2538" data-name="Group 2538">
+    <g id="Group_2537" data-name="Group 2537">
+      <path id="Path_16552" data-name="Path 16552" d="M27.134,25.366,4.268,2.5H17.5a1.25,1.25,0,0,0,0-2.5H1.25A1.254,1.254,0,0,0,0,1.25v15a1.25,1.25,0,0,0,2.5,0V4.268L25.366,27.134a1.25,1.25,0,0,0,1.768-1.767Z" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_2540" data-name="Group 2540" transform="translate(47.5 47.499)">
+    <g id="Group_2539" data-name="Group 2539">
+      <path id="Path_16553" data-name="Path 16553" d="M350.515,334.264a1.25,1.25,0,0,0-1.25,1.25V347.5L326.4,324.63a1.25,1.25,0,1,0-1.767,1.767L347.5,349.263H334.266a1.25,1.25,0,1,0,0,2.5h16.25a1.262,1.262,0,0,0,.478-.1,1.255,1.255,0,0,0,.773-1.154v-15A1.251,1.251,0,0,0,350.515,334.264Z" transform="translate(-324.265 -324.263)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

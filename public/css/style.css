@@ -1,0 +1,163 @@
+/**
+* Project: < ProjectName >;
+* Date: < dd MM YYYY >;
+* Author: < Firstname Lastname >;
+* Company: TouchMedia360;
+**/
+
+
+/*====================================================
+#   GENERAL STYLES                                   #
+====================================================*/
+
+@font-face {
+    font-family: 'muliRegular';
+    src: url('../fonts/Muli.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'openSansReg';
+    src: url('../fonts/OpenSans-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'openSansSB';
+    src: url('../fonts/OpenSans-SemiBold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'openSansB';
+    src: url('../fonts/OpenSans-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'segoeUI';
+    src: url('../fonts/Segoe\ UI.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.muliRegular {
+    font-family: 'muliRegular';
+}
+
+.openSansReg {
+    font-family: 'openSansReg';
+}
+
+.openSansSB {
+    font-family: 'openSansSB';
+}
+
+.segoeUI {
+    font-family: 'segoeUI';
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: #292931;
+    /* background-image: url('../images/homepage_background.png'); */
+    /* background-repeat: no-repeat; */
+}
+
+header {
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 2;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.white {
+    color: #fff;
+}
+
+.containerHeader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 12%;
+    margin-right: 12%;
+    height: 100px;
+}
+
+#logo {
+    width: 20%;
+}
+
+#planeLogo {
+    margin-right: 3%;
+}
+
+.headerImg {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
+}
+
+.headerMenu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #BCBCBC;
+    font-family: 'OpenSansReg';
+    font-size: 16px;
+    width: 35%;
+    align-items: center;
+    margin-left: -50%;
+}
+
+.headerLink {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.btnReserve {
+    border-radius: 5px;
+    background-color: #FF002E;
+    border-radius: 5px;
+}
+
+.reserveText {
+    font-size: 18px;
+    padding: 10px 40px;
+}
+
+#welcomeText {
+    margin-left: 12%;
+    margin-top: 18%;
+}
+
+h1 {
+    font-family: 'OpenSansB';
+    font-size: 45px;
+}
+
+
+
+/*====================================================
+#   FOOTER                                           #
+====================================================*/
